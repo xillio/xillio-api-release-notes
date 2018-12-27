@@ -1,0 +1,35 @@
+= Xillio API Release Notes
+Xillio <support@xillio.com>
+
+== Version 2.1 (current)
+
+The release of 2.1.0 came with: *Content Scripts*.
+This feature allows you to execute Node.js scripts on content going through Xillio API.
+
+
+== Version 2.0 (26-10-2017)
+
+Xillio API 2.0 has been released!
+We currently support connections to:
+
+- Bitbucket
+- Box
+- Dropbox
+- Egnyte
+- Episerver
+- FileNet
+- Google Drive
+- OneDrive
+- SharePoint
+- HP Trim
+- Xde (legacy connectors)
+
+The legacy connectors include:
+
+- Adobe Experience Manager
+- Alfresco
+- Confluence
+- Github
+- Liferay
+- Nuxeo
+- Zendesk

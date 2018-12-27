@@ -1,0 +1,7 @@
+## Jetbrains
+.idea/
+*.iml
+
+## Generated files
+build/
+public/

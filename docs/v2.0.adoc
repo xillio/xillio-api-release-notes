@@ -1,0 +1,26 @@
+= Version 2.0 (26-10-2017)
+
+Xillio API 2.0 has been released!
+We currently support connections to:
+
+- Bitbucket
+- Box
+- Dropbox
+- Egnyte
+- Episerver
+- FileNet
+- Google Drive
+- OneDrive
+- SharePoint
+- HP Trim
+- Xde (legacy connectors)
+
+The legacy connectors include:
+
+- Adobe Experience Manager
+- Alfresco
+- Confluence
+- Github
+- Liferay
+- Nuxeo
+- Zendesk

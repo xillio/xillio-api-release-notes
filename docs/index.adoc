@@ -1,66 +1,12 @@
 = Xillio API Release Notes
 Xillio <support@xillio.com>
 
-== Version 2.2 (current)
+:leveloffset: +1
 
-This version adds a new connector:
+include::./v2.2.adoc[]
 
-- WordPress
+include::./v2.1.adoc[]
 
-== Version 2.1 (14-11-2018)
+include::./v2.0.adoc[]
 
-The release of 2.1.0 came with: *Content Scripts*.
-This feature allows you to execute Node.js scripts on content going through Xillio API.
-
-This version adds three new connectors:
-
-- OpenText
-- Sitecore
-- WordPress
-
-
-=== 2.1.26 - OpenText Connector
-
-A new connector is released: OpenText.
-
-=== 2.1.14 - Named Queries
-
-Named queries allow you to down-scope the amount of content to ingest. You can now define queries which are executed
-by target systems when you request entities. This way you no longer have to fetch all entities and do the filtering
-yourself.
-
-More information: https://docs.xill.io/#_named_queries
-
-=== 2.1.7 - `metadata` Scope
-
-This release introduces a new scope: `metadata`. This scope returns user-defined metadata from the target systems. For
-example, when you have created custom columns in SharePoint, you can use the `metadata` scope to retrieve this.
-
-More information: https://docs.xill.io/#api_metadata_get
-
-== Version 2.0 (26-10-2017)
-
-Xillio API 2.0 has been released!
-We currently support connections to:
-
-- Bitbucket
-- Box
-- Dropbox
-- Egnyte
-- Episerver
-- FileNet
-- Google Drive
-- OneDrive
-- SharePoint
-- HP Trim
-- Xde (legacy connectors)
-
-The legacy connectors include:
-
-- Adobe Experience Manager
-- Alfresco
-- Confluence
-- Github
-- Liferay
-- Nuxeo
-- Zendesk
+:leveloffset: -1

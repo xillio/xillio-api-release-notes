@@ -1,6 +1,24 @@
 = Xillio API Release Notes
 Xillio <support@xillio.com>
 
+Xillio API is continuously being improved, which means it is released often.
+
+For our versioning, we use Semantic Versioning. Which means we create three different types of releases:
+
+A PATCH release is fully backward compatible and only includes bugfixes or minor improvements.
+It is always safe to update to a new patch release.
+You can recognise a patch release by the fact that only the last version number has changed. So a patch release on 2.1.1 is going to be 2.1.2.
+
+A MINOR release is also backward compatible but introduces new features.
+We generally reserve minor releases for introducing new rest api features, endpoints or functionality.
+If we add new functionality to a single connector which is in the scope of the current api features then we consider that a patch release and not a minor release.
+A minor release can be identified by a new second number. This means a minor release on 2.0.5 is going to be 2.1.0.
+
+A MAJOR release contains big changes and improvements.
+These are generally NOT backward compatible.
+A major release has a new first number of the version number.
+So version 2.1.1 would be named version 3.0.0 after a major release.
+
 :leveloffset: +1
 
 include::./v2.2.adoc[]

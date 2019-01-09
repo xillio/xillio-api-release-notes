@@ -3,16 +3,14 @@
 The release of 2.1.0 came with: *Content Scripts*.
 This feature allows you to execute Node.js scripts on content going through Xillio API.
 
-This version adds three new connectors:
+This version adds two new connectors:
 
-- OpenText
-- Sitecore
-- WordPress
-
+- https://docs.xill.io/#connector-opentext[OpenText]
+- https://docs.xill.io/#connector-sitecore[Sitecore]
 
 == 2.1.26 - OpenText Connector
 
-A new connector is released: OpenText.
+A new connector is released: https://docs.xill.io/#connector-opentext[OpenText].
 
 == 2.1.14 - Named Queries
 
@@ -20,11 +18,15 @@ Named queries allow you to down-scope the amount of content to ingest. You can n
 by target systems when you request entities. This way you no longer have to fetch all entities and do the filtering
 yourself.
 
-More information: https://docs.xill.io/#_named_queries
+More information: https://docs.xill.io/#_named_queries[Named queries]
 
 == 2.1.7 - `metadata` Scope
 
 This release introduces a new scope: `metadata`. This scope returns user-defined metadata from the target systems. For
 example, when you have created custom columns in SharePoint, you can use the `metadata` scope to retrieve this.
 
-More information: https://docs.xill.io/#api_metadata_get
+More information: https://docs.xill.io/#api_metadata_get[Metadata scope]
+
+== 2.1.3 - SiteCore Connector
+
+A new connector is released: https://docs.xill.io/#connector-sitecore[Sitecore].

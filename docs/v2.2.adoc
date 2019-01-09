@@ -2,19 +2,19 @@
 
 This version adds a new connector:
 
-- WordPress
+- https://docs.xill.io/#connector-wordpress[WordPress]
 
-== 2.2.12
+== 2.2.12 - WordPress Connector write operations
 
 Write capabilities have been added to the WordPress connector. It is now possible to create, update, and delete pages,
 posts, and media in WordPress.
 
-== 2.2.10
+== 2.2.10 - Add Error Header
 
 Responses now return the `Error-ID` header when an error occurs. This header can be reported to our support department
 for faster support on our cloud environment.
 
-== 2.2.7
+== 2.2.7 - WordPress Connector read operations
 
 A new connector is released: https://docs.xill.io/#connector-wordpress[WordPress].
 

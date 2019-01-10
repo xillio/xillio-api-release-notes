@@ -7,13 +7,13 @@ We currently support connections to:
 - Box
 - Dropbox
 - Egnyte
-- Episerver
+- Episerver10
 - FileNet
 - Google Drive
 - OneDrive
 - SharePoint
 - HP Trim
-- Xde (legacy connectors)
+- XDE (legacy connectors)
 
 The legacy connectors include:
 

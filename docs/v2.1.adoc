@@ -12,7 +12,7 @@ This version adds two new connectors:
 
 A new connector is released: https://docs.xill.io/#connector-opentext[OpenText].
 
-== 2.1.14 - Named Queries
+== 2.1.13 - Named Queries
 
 Named queries allow you to down-scope the amount of content to ingest. You can now define queries which are executed
 by target systems when you request entities. This way you no longer have to fetch all entities and do the filtering

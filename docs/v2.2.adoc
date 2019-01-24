@@ -5,6 +5,11 @@ This version adds two new connectors:
 - https://docs.xill.io/#connector-s3[S3]
 - https://docs.xill.io/#connector-wordpress[WordPress]
 
+== 2.2.20 - Simplify authentication flow
+
+The authentication flow has been simplified to allow retrieving tokens by using the `app` client id instead of your
+tenant client id and secret.
+
 == 2.2.19 - S3 Connector read operations
 
 A new connector is released: https://docs.xill.io/#connector-s3[S3].

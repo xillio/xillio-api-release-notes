@@ -5,6 +5,11 @@ This version adds two new connectors:
 - https://docs.xill.io/#connector-s3[S3]
 - https://docs.xill.io/#connector-wordpress[WordPress]
 
+== 2.2.21 - Add Bookmark data type to Box connector
+
+Support for performing operations on the Bookmark data type in the Box connector has been added. This data type
+is also known as a Web Link.
+
 == 2.2.20 - Simplify authentication flow
 
 The authentication flow has been simplified to allow retrieving tokens by using the `app` client id instead of your

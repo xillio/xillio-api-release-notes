@@ -1,4 +1,4 @@
-= Version 2.2 (current)
+= Version 2.2
 
 This version adds two new connectors:
 

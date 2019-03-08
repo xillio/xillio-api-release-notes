@@ -1,0 +1,12 @@
+= Version 2.3 (current)
+
+This version adds the Configuration Manager.
+
+== 2.3.0 - Configuration Manager
+
+The new Configuration Manager has been added.
+
+The configuration manager allows users to create and manage configurations with the use of an user interface,
+where they previously had to do this with more technical tools (e.g. Curl and Postman).
+
+This manager is accessible from the browser on your desktop, tablet or mobile-device.

@@ -1,0 +1,15 @@
+= Version 2.4 (13-06-2019)
+
+Version 2.4.0 adds a new feature to Xillio API called 'RPC endpoints'.
+
+== 2.4.5 - Configuration manager user profile
+
+The configuration manager now has a 'Profile' page where you can edit your own user's information, such as email address or password.
+
+== 2.4.4 - Zendesk translation scope support
+
+The Zendesk connector now supports the translation scope. This provides support to creating translations of articles and exposing an article's language.
+
+== 2.4.0 - RPC endpoints
+
+With RPC endpoints, Xillio can create custom endpoints for customers to use that extend a connector's functionality. These endpoints are connector-specific and are therefore not unified.

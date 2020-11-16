@@ -1,6 +1,24 @@
-= Version 2.3 (current)
+= Version 2.3 (03-05-2019)
 
-This version adds the Configuration Manager.
+Version 2.3.0 adds the Configuration Manager.
+
+This version also adds a new connector: https://docs.xill.io/#connector-zendesk[Zendesk]
+
+== 2.3.14 - Zendesk Connector
+
+This version adds the Zendesk connector. This connector supports read and write functionality.
+
+== 2.3.12 - WordPress media posts translation support
+
+Media posts now support the translation use-case through the language decorator and translation scope features.
+
+== 2.3.4 - GitLab Connector write operations
+
+The GitLab connector now supports write capabilities on folders and files.
+
+== 2.3.1 - Configuration Manager
+
+Internally generated error IDs are now exposed in the JSON body response. This error ID value is also printed in the logs, allowing for easier identification of what happened.
 
 == 2.3.0 - Configuration Manager
 

@@ -1,0 +1,36 @@
+= Version 2.5 (18-10-2019)
+
+Version 2.5.0 adds a new endpoint to the Xillio API: Search.
+
+This version also adds two new connectors:
+- https://docs.xill.io/#connector-salesforce[Salesforce Knowledge]
+- https://docs.xill.io/#connector-aem[Adobe Experience Manager (AEM)]
+
+== 2.5.19 - Salesforce Knowledge write operations
+
+This version adds write functionality to the Salesforce Knowledge connector.
+
+== 2.5.15 - Custom Post types support in WordPress
+
+With this version, custom Post types support is added to the WordPress connector. This support is added for both read and write functionality.
+
+== 2.5.8 - Adobe Experience Manager read operations
+
+This version adds the Adobe Experience Manager (AEM) connector. This connector supports only read functionality.
+
+== 2.5.8 - Salesforce Knowledge read operations
+
+This version adds the Salesforce Knowledge connector. This connector supports only read functionality.
+
+== 2.5.7 - Improved documentation in configuration manager
+
+When setting up a configuration in the configuration manager, you can now hover 'question-mark' icons to show more information about the field. Clicking this icon will forward you to the connector's documentation chapter.
+
+== 2.5.1 - GitLab personal access token support
+
+The GitLab connector now supports the usage of personal access tokens as authentication.
+
+== 2.5.0 - Unified Search
+
+Version 2.5.0 adds a new endpoint to the Xillio API: https://docs.xill.io/#Search[unified search]. The search endpoint allows you to search through the target repository by textual content. This endpoint is dependent on a system's search capabilities and therefore returns results based on the system's search implementation.
+

@@ -1,9 +1,20 @@
-= Version 2.2
+= Version 2.2 (07-03-2019)
 
-This version adds two new connectors:
+This version adds three new connectors:
 
 - https://docs.xill.io/#connector-s3[S3]
 - https://docs.xill.io/#connector-wordpress[WordPress]
+- https://docs.xill.io/#connector-gitlab[GitLab]
+
+== 2.2.31 - GitLab Connector read operations
+
+A new connector is released: https://docs.xill.io/#connector-gitlab[GitLab].
+
+This is a read-only connector.
+
+== 2.2.22 - Three-part relational scopes
+
+Support for three-part relational scopes have been added. The previous valid scope values will still work and map to such a three-part relational scope. For more information see https://docs.xill.io/#_scopes_for_entities[Scopes for Entities].
 
 == 2.2.21 - Add Bookmark data type to Box connector
 

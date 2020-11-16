@@ -1,0 +1,3 @@
+= Version 2.7 (14-07-2020)
+
+Version 2.7.0 allows OpenText's baseUrl path to be configurable in order to support more advanced API setups.

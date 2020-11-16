@@ -21,6 +21,20 @@ So version 2.1.1 would be named version 3.0.0 after a major release.
 
 :leveloffset: +1
 
+include::./v2.9.adoc[]
+
+include::./v2.8.adoc[]
+
+include::./v2.7.adoc[]
+
+include::./v2.6.adoc[]
+
+include::./v2.5.adoc[]
+
+include::./v2.4.adoc[]
+
+include::./v2.3.adoc[]
+
 include::./v2.2.adoc[]
 
 include::./v2.1.adoc[]

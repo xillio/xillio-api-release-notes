@@ -2,11 +2,11 @@
 
 Version 2.9.0 adds a new decorator to the Entity structure: https://docs.xill.io/#decorator_workflow[Workflow decorator].
 
-This connector furthermore adds the https://docs.xill.io/#connector-drupal[Drupal connector].
+This release furthermore adds the https://docs.xill.io/#connector-drupal[Drupal connector].
 
 == 2.9.10 - Drupal connector write operations
 
-This version adds write functionality to the Salesforce Knowledge connector. It furthermore adds pagination support to the Drupal connector.
+This version adds write functionality and pagination support to the Drupal connector.
 
 == 2.9.8 - OpenText pagination support
 
@@ -22,5 +22,4 @@ The configuration manager and landing page have been redesigned to suit Xillio's
 
 == 2.9.0 - Added workflow decorator
 
-The workflow decorator signifies the state of the entity in the workflow of the target system. In web content management systems (WCMs), this is often used to denote the state of publication; draft or published. This decorator is implemented in the WordPress and Zendesk connector with this release.
-
+The workflow decorator signifies the state of the entity in the workflow of the target system. In web content management systems (WCMs), this is often used to denote the state of publication; draft or published. This decorator is implemented in the WordPress and Zendesk connectors with this release.

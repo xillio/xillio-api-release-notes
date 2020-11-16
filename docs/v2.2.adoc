@@ -14,7 +14,7 @@ This is a read-only connector.
 
 == 2.2.22 - Three-part relational scopes
 
-Support for three-part relational scopes have been added. The previous valid scope values will still work and map to such a three-part relational scope. For more information see https://docs.xill.io/#_scopes_for_entities[Scopes for Entities].
+Support for three-part relational scopes have been added. The previous valid scope values still work and map to equivalent three-part relational scope. For more information see https://docs.xill.io/#_scopes_for_entities[Scopes for Entities].
 
 == 2.2.21 - Add Bookmark data type to Box connector
 

@@ -1,6 +1,6 @@
 = Version 2.6 (04-06-2020)
 
-This version also adds a new connector: https://docs.xill.io/#connector-json-rpc[JSON RPC] (custom connector).
+This version adds a new connector: https://docs.xill.io/#connector-json-rpc[JSON RPC] (custom connector).
 
 == 2.6.9 - FileNet connector metadata and query functionality
 
@@ -10,4 +10,4 @@ With this release, metadata and query functionality has been added to the FileNe
 
 This version adds the JSON RPC connector. This connector allows third-parties to create and host connectors and then add them to the Xillio API infrastructure. This allows any system the be added to the Xillio API.
 
-The server must adhere to the JSON RPC protocol which is furthermore bounded by Xillio API's requirements on contents of requests and responses. For more information and documentation on creating such a custom connector, please contact us.
+The server must adhere to the JSON RPC protocol which is bounded by Xillio API's requirements on contents of requests and responses. For more information and documentation on creating such a custom connector, please contact us.

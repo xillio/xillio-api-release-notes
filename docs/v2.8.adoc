@@ -1,3 +1,3 @@
 = Version 2.8 (21-07-2020)
 
-Version 2.8.0 adds https://docs.xill.io/#pagination[pagination support] to the Xillio API. With pagination, you can request subsets of results. This allows you to minimize the result set to your needs and therefore have increased performance. The connector does have to support this feature in order to use it properly.
+Version 2.8.0 adds https://docs.xill.io/#pagination[pagination support] to the Xillio API. With pagination, you can request subsets of results. This allows you to minimize the result set to your needs and therefore have increased performance. Connectors have to support this feature in order to use it properly.

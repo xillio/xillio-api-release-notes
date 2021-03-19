@@ -1,8 +1,24 @@
-= Version 2.9 (current)
+= Version 2.9 (05-02-2021)
 
 Version 2.9.0 adds a new decorator to the Entity structure: https://docs.xill.io/#decorator_workflow[Workflow decorator].
 
 This release furthermore adds the https://docs.xill.io/#connector-drupal[Drupal connector].
+
+== 2.9.15 - Drupal custom workflow support
+
+The Drupal connector now is better capable to work with Drupal workflows. With this release, you can now also manage
+your nodes using your custom workflows defined in Drupal.
+
+== 2.9.14 - Drupal translation scope support
+
+The Drupal connector now supports the `translation` relation type in the `scope` query parameter. This allows you
+to list, retrieve, create and update translations within Drupal. Please read the
+https://docs.xill.io/#connector-drupal[connector's documentation] for additional configuration parameters, features
+and limitations for this translation support.
+
+== 2.9.11 - Opentext connector file decorator
+
+The Opentext connector now exposes the `file` decorator when possible.
 
 == 2.9.10 - Drupal connector write operations
 

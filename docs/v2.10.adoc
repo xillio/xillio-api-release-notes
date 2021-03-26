@@ -1,0 +1,14 @@
+= Version 2.10 (current)
+
+Version 2.10.0 comes with major internal changes as part of maintenance for this product.
+
+== 2.10.2 - Java 11 upgrade
+
+Xillio API is now built with the latest long term support Java version 11.
+
+== 2.10.0 - Major internal dependencies upgrade
+
+With this release, many internal dependencies have been upgraded or replaced. Please contact us if you are experiencing
+any problems with this release https://support.xill.io/support/home[at our support site].
+
+
